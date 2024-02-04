@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinemozbey&label=Profile%20views&color=0e75b6&style=flat" alt="sinemozbey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinemozbey" alt="sinemozbey" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sinemozzbey" target="blank"><img src="https://img.shields.io/twitter/follow/sinemozzbey?logo=twitter&style=for-the-badge" alt="sinemozzbey" /></a> </p>
 
 - 🔭 I’m currently working on **Java**
 

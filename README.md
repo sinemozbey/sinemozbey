@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-I am a Software Developer at **UpAgon Software Company**, with a strong academic foundation in **Computer Engineering (MEF University)** and hands-on experience across **software development, backend systems, databases, AI/ML, and data-driven applications**.
+I am a Software Developer at **UpAgon Technology and Consulting Company**, with a strong academic foundation in **Computer Engineering (MEF University)** and hands-on experience across **software development, backend systems, databases, AI/ML, and data-driven applications**.
 
 I enjoy building scalable systems, solving complex problems, and creating products where **technology meets business impact**.
 

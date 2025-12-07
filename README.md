@@ -1,39 +1,40 @@
 <h1 align="center">Hi 👋, I'm Sinem Özbey</h1>
-<h3 align="center">Software Developer | Computer Engineering Student | AI & Data Enthusiast</h3>
+<h3 align="center">Software Developer @ UpAgon | Computer Engineering Student | AI & Data Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinemozbey&label=Profile%20views&color=blue&style=flat" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinemozbey&label=Profile%20views&color=blueviolet&style=flat" />
+</div>
+
+<br/>
+
+## 🧠 About Me
+I am a Software Developer at **UpAgon Technology and Consulting Company**, with strong experience across  
+**software development, backend systems, databases, AI/ML, and scalable data-driven architectures**.
+
+I love building clean, efficient, and impactful digital products where **technology creates measurable business value**.
 
 ---
 
-### 👩‍💻 About Me
-I am a Software Developer at **UpAgon Technology and Consulting Company**, with a strong academic foundation in **Computer Engineering (MEF University)** and hands-on experience across **software development, backend systems, databases, AI/ML, and data-driven applications**.
-
-I enjoy building scalable systems, solving complex problems, and creating products where **technology meets business impact**.
-
----
-
-### 🚀 Current Focus
-- Building modern web applications & scalable backend systems  
+## 🚀 Current Focus
+- Developing scalable backend & web applications  
 - Working with **C#, .NET, Python, Java, JavaScript**  
-- Developing **AI/ML powered solutions** (Transformers, LLMs, RAG)  
-- Improving cloud & DevOps skills (GitHub, Docker, CI/CD)
+- AI/ML-based solutions (Transformers, LLMs, RAG architectures)  
+- Improving cloud & DevOps capabilities (GitHub, Docker, CI/CD)  
 
 ---
 
-### 📬 Contact
-- 📧 sinemozbey0@gmail.com  
-- 🌍 Istanbul, Turkey  
+## 📬 Contact
+- 📧 **sinemozbey0@gmail.com**  
+- 📍 Istanbul, Turkey  
 - 🔗 <a href="https://linkedin.com/in/sinemozbey" target="_blank">LinkedIn</a>  
 - 🐦 <a href="https://twitter.com/sinemozzbey" target="_blank">Twitter</a>  
 - 📷 <a href="https://instagram.com/sinemozzbey" target="_blank">Instagram</a>  
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
-#### **Programming**
+### **Programming**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
@@ -42,7 +43,7 @@ I enjoy building scalable systems, solving complex problems, and creating produc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-#### **Frameworks & Tools**
+### **Frameworks & Tools**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
@@ -51,7 +52,7 @@ I enjoy building scalable systems, solving complex problems, and creating produc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
 </p>
 
-#### **Databases**
+### **Databases**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
@@ -59,7 +60,7 @@ I enjoy building scalable systems, solving complex problems, and creating produc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
 </p>
 
-#### **AI / ML**
+### **AI / ML**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
@@ -68,19 +69,17 @@ I enjoy building scalable systems, solving complex problems, and creating produc
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sinemozbey&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemozbey&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinemozbey&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinemozbey&layout=compact&theme=tokyonight" />
+</div>
 
-<p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sinemozbey&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sinemozbey&theme=tokyonight" />
+</div>
 
 ---
 
-### 🌟 Quote I Live By
+## ✨ Quote I Live By
 > “The best way to predict the future is to create it.”
-
----
